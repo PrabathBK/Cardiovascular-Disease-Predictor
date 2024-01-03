@@ -25,5 +25,5 @@ This project focuses on predicting the presence or absence of cardiovascular dis
 - **Insights**: Provided valuable insights into key factors contributing to cardiovascular disease.
 - **Performance**: Highlighted the significance of data preprocessing and feature engineering in enhancing model performance.
 
-- 📧 **Contact**: [Prabathwijethilaka50@gmail.com](mailto:Prabathwijethilaka50@gmail.com)
+ #### **Contact**: [Prabathwijethilaka50@gmail.com](mailto:Prabathwijethilaka50@gmail.com)
 
