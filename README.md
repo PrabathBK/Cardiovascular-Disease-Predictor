@@ -21,7 +21,7 @@ This project focuses on predicting the presence or absence of cardiovascular dis
 - **Tools**: Jupyter Notebook, Kaggle Docker Image
 
 ## Results
-- **Accuracy**: Achieved 100% accuracy on the test dataset using the Voting Classifier.
+- **Accuracy**: Achieved 99% accuracy on the test dataset using the Voting Classifier.
 - **Insights**: Provided valuable insights into key factors contributing to cardiovascular disease.
 - **Performance**: Highlighted the significance of data preprocessing and feature engineering in enhancing model performance.
 
